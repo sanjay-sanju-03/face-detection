@@ -12,15 +12,20 @@ A Python-based real-time face recognition system for monitoring and controlling 
 
 ## 🛠️ Installation
 
-``bash
+
 # Clone the repository
+```bash
 git clone https://github.com/sanjay-sanju-03/face-detection.git
-
+```
 # Navigate into the project folder
+```bash
 cd face-detection
-
+```
 # Install Python dependencies
+```bash
 pip install opencv-python mediapipe playsound numpy
-
-To run the file
+```
+#To run the file
+```bash
 python main.py
+```
